@@ -1,6 +1,3 @@
--  Hi, 👋 I’m Azgeda
-- 🌱 I’m currently learning JS, PHP and CSS
-- 📫 How to reach me? lukasz.kulenski17@op.pl
 
 <!---
 Azgeda-debug/Azgeda-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
